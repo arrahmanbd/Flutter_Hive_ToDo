@@ -13,11 +13,11 @@ This app made with this dependency
 ```
     
 ## 🔗 Demo
-[![Download Now](https://img.shields.io/badge/Download-1DA1F2?style=for-the-badge&logo=download&logoColor=white)](/apkfile/downloadapp-armeabi-v7a-release.apk)
+[![Download Now](https://img.shields.io/badge/Download-1DA1F2?style=for-the-badge&logo=download&logoColor=white)](apkfile/app-armeabi-v7a-release.apk)
 
 
 ## Screenshot
+![Screenshot](apkfile/screenshot.jpg)
 
-![App Screenshot](/apkfile/screenshot.png)
 
 
